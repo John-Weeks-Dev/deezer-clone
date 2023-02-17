@@ -1,29 +1,35 @@
-# deezer-c
+# Deezer Clone (deezer-clone)
 
-This template should help get you started developing with Vue 3 in Vite.
+### Learn how to build this!
 
-## Recommended IDE Setup
+If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/219704653-cec6d0f5-2805-427c-985a-a65abed75807.png)](https://www.youtube.com/watch?v=ZzuqwqP1wAQ)
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
 
-## Project Setup
+**LIKE**, **SUBSCRIBE**, and **SMASH THE NOTIFICATION BELL**!!!
 
-```sh
-npm install
+## App Setup
+
 ```
+git clone https://github.com/John-Weeks-Dev/deezer-clone.git
 
-### Compile and Hot-Reload for Development
+npm i
 
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+You should be good to go! ROCK THE F**K OUT!!!
 
-```sh
-npm run build
-```
+# Application Images
+
+<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/219700344-360641f3-33c2-49c3-bf38-5821093747bf.png">
+<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/219700478-8941afac-4f3f-442e-bf46-a9d161ab2a7e.png">
+<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/219700578-6b1f58b9-8708-4cfa-ab59-8478229b23b7.png">
+<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/219700698-32ac1d20-2abc-4f11-8352-894fcd300ae2.png">
+<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/219700789-5994c348-b0db-4800-89da-6746b07f25c9.png">
+<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/219700911-646097e0-9d92-494d-952b-c642c38760b6.png">
+<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/219701020-bd35a9b1-5e84-44c0-b294-180d2a01cf12.png">
+
