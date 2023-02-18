@@ -203,14 +203,14 @@
             <Highlights 
               by="Some Artist 1"
               song="Awsome Song for you!"
-              image="https://picsum.photos/id/220/600/300"
+              image="https://picsum.photos/id/220/800/300"
             />
           </div>
           <div class="rounded-lg w-1/2">
             <Highlights 
               by="Some Artist 2"
               song="Another banger BRUV!"
-              image="https://picsum.photos/id/229/600/300"
+              image="https://picsum.photos/id/229/800/300"
             />
           </div>
         </div>
@@ -248,14 +248,14 @@
             <Highlights 
               by="Some Artist 1"
               song="Awsome Song for you!"
-              image="https://picsum.photos/id/177/600/300"
+              image="https://picsum.photos/id/177/800/300"
             />
           </div>
           <div class="rounded-lg w-1/2">
             <Highlights 
               by="Some Artist 2"
               song="Another banger BRUV!"
-              image="https://picsum.photos/id/126/600/300"
+              image="https://picsum.photos/id/126/800/300"
             />
           </div>
         </div>
